@@ -1,5 +1,4 @@
 ### Failed ludwig training
 
-[This README in russian](README.ru.md)
+This is an unsuccessful try of using ludwig for predicting results of some projects on the Kickstarter. The failure happened because of the incorrect data format.
 
-This is an unsuccessful try of using ludwig for predicting results of some projects on the Kickstarter.
